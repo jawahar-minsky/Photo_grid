@@ -72,7 +72,7 @@ body {
 }
 .item1 {
     grid-row: span 2;
-    align-content: center;
+    align-content: end;
     color: rgb(255,255,255);
     text-align: center;
 }
